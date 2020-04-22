@@ -1,2 +1,2 @@
 # Automation
-A collection of Automation scripts I write in Python for my daily use.
+A collection of Automation scripts I wrote in Python which I use for automating repititive tasks in my daily use.
